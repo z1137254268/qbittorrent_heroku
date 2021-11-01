@@ -8,8 +8,8 @@ torrent_size=$6
 file_hash=$7
 
 qb_version="4.3.5"
-qb_username="Neu"
-qb_password="1137254268"
+qb_username="admin"
+qb_password="adminadmin"
 qb_web_url="http://localhost:8080"
 leeching_mode="true"
 log_dir="/root/qbauto"

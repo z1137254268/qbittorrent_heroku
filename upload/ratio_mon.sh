@@ -1,7 +1,7 @@
 #!/bin/sh
 qb_version="4.3.5"
-qb_username="Neu"
-qb_password="1137254268"
+qb_username="admin"
+qb_password="adminadmin"
 qb_web_url="http://localhost:8080"
 log_dir="/root/qbauto"
 expect_ratio=0.3

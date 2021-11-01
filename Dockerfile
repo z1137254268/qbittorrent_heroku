@@ -16,6 +16,3 @@ COPY upload/ratio_mon.sh /.config/rclone/
 COPY upload/qb_auto.sh /.config/rclone/
 RUN  sudo chmod 777 /.config/rclone/ratio_mon.sh
 RUN  sudo chmod 777 /.config/rclone/qb_auto.sh
-
-COPY upload/qBittorrent.conf ~/.config/qBittorrent/
-RUN  sudo chmod 777 /.config/qBittorrent/qBittorrent.conf
